@@ -34,7 +34,10 @@ _Capítulo 13_
 
 ![t7](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t7.PNG)
 
-_Capítulo 14_
+_Capítulo 14_         
+![Mapa14]( https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/MapaCap14.png)      
+![Mapa14_1](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/MapaCap14_1.png)    
+
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -60,9 +63,20 @@ _Capítulo 13_
 
 ![10](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/10.PNG)
 
-_Capítulo 14_
+_Capítulo 14_         
+![9](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/9.png)     
+![11](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/11.png)          
+![13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/13.png)          
+![17](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/17.png)        
+![21](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/21.png)         
+![23](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/23.png)        
+![27](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/27.png)       
 
-**4. VIDEO** 
+
+**4. VIDEO**      
+
+Link dek video:  https://youtu.be/-yf9wnOrvgs      
+
 
 **5. CONCLUSIONES**
 
