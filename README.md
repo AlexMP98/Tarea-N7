@@ -6,7 +6,15 @@
 
 _Objetivo General_
 
+-Analizar el funcionamiento de los inductores y su efecto en la operacion de un circuito.
+
 _Objetivos Específicos_
+
+-Comprender como funciona la inductancia en configuraciones en serie y en paralelo.
+
+-Obtener los voltajes y corrientes de los inductores.
+
+-Entender las leyes de Faraday y Lenz aplicadas a diferentes problemas.
 
 **2. MARCO TEÓRICO**
 
@@ -57,6 +65,8 @@ _Capítulo 14_
 **4. VIDEO** 
 
 **5. CONCLUSIONES**
+
+-
 
 **6. BIBLIOGRAFÍA**
 
