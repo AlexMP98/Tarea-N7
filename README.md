@@ -34,6 +34,10 @@ _Capítulo 13_
 
 ![t7](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t7.PNG)
 
+![Mapa C13.6](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Fun.C%20Tarea%207%20resumen%20cap%2013%20m1.jpg)
+
+![Mapa C13.7-13.9](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Fun.C%20Tarea%207%20resumen%20cap%2013%20m2.jpg)
+
 _Capítulo 14_         
 ![Mapa14]( https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/MapaCap14.png)      
 ![Mapa14_1](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/MapaCap14_1.png)    
@@ -63,7 +67,28 @@ _Capítulo 13_
 
 ![10](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/10.PNG)
 
-_Capítulo 14_         
+![Ejer 23-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2023-C13.png)
+
+![Ejer 25-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2025-C13.png)
+
+![Ejer 27-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2027-C13.png)
+
+![Ejer 29-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2029-C13.png)
+
+![Ejer 31-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2031-C13.png)
+
+![Ejer 33-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2033-C13.png)
+
+![Ejer 35-C13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%2035-C13.png)
+
+_Capítulo 14_    
+
+![Ejer 1-C14](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%201-C14.png)
+
+![Ejer 3-C14](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%203-C14.png)
+
+![Ejer 5-C14](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/Ejer%205-C14.png)
+
 ![9](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/9.png)     
 ![11](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/11.png)          
 ![13](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/13.png)          
