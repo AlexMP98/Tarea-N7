@@ -66,7 +66,11 @@ _Capítulo 14_
 
 **5. CONCLUSIONES**
 
--
+-El voltaje inducido en una bobina depende de los enlaces de flujo y estos a su vez depende del material del núcleo.
+
+-El efecto de la inductancia es similiar al efecto de inercia en un sistema mecánico.
+
+-Ya que la inductancia se debe por completo a los efectos magnéticos de la corriente eléctrica,todos los conductores que conducen corriente tienen inductancia.
 
 **6. BIBLIOGRAFÍA**
 
