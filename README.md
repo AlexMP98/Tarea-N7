@@ -12,11 +12,45 @@ _Objetivos Específicos_
 
 _Capítulo 13_
 
+![t1](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t1.PNG)
+
+![t2](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t2.PNG)
+
+![t3](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t3.PNG)
+
+![t4](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t4.PNG)
+
+![t5](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t5.PNG)
+
+![t6](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t6.PNG)
+
+![t7](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/t7.PNG)
+
 _Capítulo 14_
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 _Capítulo 13_
+
+![1](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/1.PNG)
+
+![2](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/2.PNG)
+
+![3](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/3.PNG)
+
+![4](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/4.PNG)
+
+![5](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/5.PNG)
+
+![6](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/6.PNG)
+
+![7](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/7.PNG)
+
+![8](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/8.PNG)
+
+![9](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/9.PNG)
+
+![10](https://github.com/AlexMP98/Tarea-N7/blob/main/Imagenes/10.PNG)
 
 _Capítulo 14_
 
